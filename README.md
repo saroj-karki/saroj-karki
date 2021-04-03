@@ -1,4 +1,4 @@
-<h1> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> Hi there, I'm Saroj 👋 </h1>
+<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> Hi there, I'm Saroj 👋 </h1>
 
 - I'm aspiring 🔭️ Developer currently learning _Django_ and _React Js_.
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <h2>🛠️ Languages & Frameworks</h2>
+ <h2 align="center">🛠️ Languages & Frameworks</h2>
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
