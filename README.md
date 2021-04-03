@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![React](https://img.shields.io/badge/-react-333?style=for-the-badge&logo=react&logoColor=61DBFB)
 
-![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=EFEF11)
+![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=django&logoColor=fff&labelColor=003f2c)
  
