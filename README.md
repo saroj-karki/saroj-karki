@@ -1,4 +1,9 @@
 <h1 align="center"> Hi there, I'm Saroj 👋</h1>
+<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
+
+- I'm aspiring 🔭️ Developer currently learning _Django_ and _React Js_.
+- I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
+- 👯 I’m looking to collaborate on Web Dev projects
 
 <!--
 **saroj-karki/saroj-karki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
