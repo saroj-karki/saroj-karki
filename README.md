@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=saroj-karki&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroj-karki&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
- </p><hr>
+ </p>
 
   <h2 align="center">📈  Github Streak</h2>
  
