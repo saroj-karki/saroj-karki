@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <hr>
 
  #### 📈  Github Stats:
+ 
+ <h2 align="center">📈  Github Stats</h2>
 
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=saroj-karki&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
