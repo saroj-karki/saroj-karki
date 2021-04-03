@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Saroj 👋</h1><hr>
+<h1 align="center"> Hi there, I'm Saroj 👋</h1>
 
 <!--
 **saroj-karki/saroj-karki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
