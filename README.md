@@ -1,4 +1,4 @@
-<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> Hi there, I'm Saroj 👋 </h1>
+<h1> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> Hi there, I'm Saroj 👋 </h1>
 
 - I'm aspiring 🔭️ Developer currently learning _Django_ and _React Js_.
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
