@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- #### ⭐  Statistics and Languages
+ #### ⭐  Github Stats:
 
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=saroj-karki&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
