@@ -35,4 +35,10 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=saroj-karki&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroj-karki&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
  </p>
+ 
+ ### 📈 **Keep The Streak Going**
+ 
+ <p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saroj-karki&show_icons=true&locale=en&layout=demo" />
+</p>
 
