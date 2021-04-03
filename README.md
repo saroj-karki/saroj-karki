@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=django&logoColor=fff&labelColor=003f2c)
 
- #### ⭐  Github Stats:
+ #### 📈  Github Stats:
 
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=saroj-karki&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroj-karki&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
- </p>
+ </p><hr>
  
- ### 📈 **Keep The Streak Going**
+ ### 📈 GithubStreak:
  
  <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saroj-karki&show_icons=true&locale=en&layout=demo" />
