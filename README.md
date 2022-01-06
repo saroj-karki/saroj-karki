@@ -1,7 +1,7 @@
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> Hi there, I'm Saroj 👋 </h1>
 
 - I'm software developer & love to learn new 💻 _Technologies_.
-- Currently brushing up my skills, learning to write clean code.
+- Currently brushing up my skills, learning to write clean code👨‍💻.
 - 👯 Looking for collaboration on any cool projects
 
 <!--
