@@ -2,7 +2,7 @@
 
 - I'm software developer & love to learn new 💻 _Technologies_.
 - Currently brushing up my skills, learning to write clean code👨‍💻.
-- 👯 Looking for collaboration on any cool projects
+- 👯 Looking for collaboration on cool projects
 
 <!--
 **saroj-karki/saroj-karki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
